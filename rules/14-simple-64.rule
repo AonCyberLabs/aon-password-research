@@ -1,0 +1,80 @@
+#############################################################################
+#   Copyright 2024 Aon plc
+#
+#   Licensed under the Apache License, Version 2.0 (the "License");
+#   you may not use this file except in compliance with the License.
+#   You may obtain a copy of the License at
+#
+#       http://www.apache.org/licenses/LICENSE-2.0
+#
+#   Unless required by applicable law or agreed to in writing, software
+#   distributed under the License is distributed on an "AS IS" BASIS,
+#   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#   See the License for the specific language governing permissions and
+#   limitations under the License.
+#############################################################################
+
+:
+$2 $0 $2 $3
+$1 $2 $3
+$@ $g $m $a $i $l $. $c $o $m
+$2 $0 $2 $2
+@0 l
+l $@ $g $m $a $i $l $. $c $o $m
+$1
+]
+$1 $2 $3 $4 $5 $6 $7 $8 $9
+D0 p2
+$2 $0 $2 $4
+[ d
+l $1 $2 $3
+$1 $2 $3 $4
+$1 $2 $3 $4 $5
+l $2 $0 $2 $3
+^s ^s ^e ^c ^n ^i ^r ^p
+$1 $2 $3 $4 $5 $6
+^u ^o ^y ^e ^v ^o ^l ^i
+$@ $h $o $t $m $a $i $l $. $c $o $m
+l $2 $0 $2 $2
+^e ^v ^o ^l ^i
+@4 d
+@0 c
+l ^r ^e ^p ^u ^s
+^e ^h ^t
+] ]
+[ $1 $2 $3 $4 $5 $6
+[ [ d
+^s ^i ^e ^m ^a ^n ^y ^m
+$2 $0 $2 $4 $!
+$p $a $s $s $w $o $r $d
+c ^d ^r ^o ^w ^s ^s ^a ^p
+$@ $2 $0 $2 $4
+{ { { { { { { { {
+[ $1 $2 $3 $4 $5
+[ ] d
+[ $2 $0 $2 $3
+$1 $2
+$1 l
+*70 p1 l
+$1 $1
+l $@ $h $o $t $m $a $i $l $. $c $o $m
+$1 $0
+$@ $y $a $h $o $o $. $c $o $m
+[
+^l ^e ^a ^h ^c ^i ^m
+^l ^e ^i ^r ^b ^a ^g
+[ $2 $0 $2 $2
+*04 O07 p3
+^a ^i ^c ^i ^r ^t ^a ^p
+^n ^a ^i ^t ^s ^a ^b ^e ^s
+$2
+{ { { { { { {
+$_ $2 $0 $2 $4
+^e ^l ^l ^e ^h ^c ^i ^m
+^o ^d ^n ^a ^n ^r ^e ^f
+^m ^a ^i ^l ^l ^i ^w
+l $1 $2 $3 $4 $5 $6 $7 $8 $9
+^l ^e ^i ^n ^a ^d
+^2 ^3 ^4 ^5 ^6 ^7 ^8 ^9 o81 r
+$0 $1
+[ $1 $2 $3

@@ -1,0 +1,1016 @@
+#############################################################################
+#   Copyright 2024 Aon plc
+#
+#   Licensed under the Apache License, Version 2.0 (the "License");
+#   you may not use this file except in compliance with the License.
+#   You may obtain a copy of the License at
+#
+#       http://www.apache.org/licenses/LICENSE-2.0
+#
+#   Unless required by applicable law or agreed to in writing, software
+#   distributed under the License is distributed on an "AS IS" BASIS,
+#   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#   See the License for the specific language governing permissions and
+#   limitations under the License.
+#############################################################################
+
+:
+$2 $0 $1 $1
+$1 $2 $3
+$@ $g $m $a $i $l $. $c $o $m
+$2 $0 $1 $0
+@0 l
+l $@ $g $m $a $i $l $. $c $o $m
+$1
+]
+$1 $2 $3 $4 $5 $6 $7 $8 $9
+D0 p2
+$2 $0 $0 $9
+[ d
+l $1 $2 $3
+$1 $2 $3 $4
+$1 $2 $3 $4 $5
+l $2 $0 $1 $1
+^s ^s ^e ^c ^n ^i ^r ^p
+$1 $2 $3 $4 $5 $6
+^u ^o ^y ^e ^v ^o ^l ^i
+$@ $h $o $t $m $a $i $l $. $c $o $m
+l $2 $0 $1 $0
+^e ^v ^o ^l ^i
+@4 d
+@0 c
+l ^r ^e ^p ^u ^s
+^e ^h ^t
+] ]
+[ $1 $2 $3 $4 $5 $6
+[ [ d
+^s ^i ^e ^m ^a ^n ^y ^m
+$2 $0 $0 $8
+$p $a $s $s $w $o $r $d
+c ^d ^r ^o ^w ^s ^s ^a ^p
+$2 $0 $1 $2
+{ { { { { { { { {
+[ $1 $2 $3 $4 $5
+[ ] d
+[ $2 $0 $1 $1
+$1 $2
+$1 l
+*70 p1 l
+$1 $1
+l $@ $h $o $t $m $a $i $l $. $c $o $m
+$1 $0
+$@ $y $a $h $o $o $. $c $o $m
+[
+^l ^e ^a ^h ^c ^i ^m
+^l ^e ^i ^r ^b ^a ^g
+[ $2 $0 $1 $0
+*04 O07 p3
+^a ^i ^c ^i ^r ^t ^a ^p
+^n ^a ^i ^t ^s ^a ^b ^e ^s
+$2
+{ { { { { { {
+$2 $0 $0 $7
+^e ^l ^l ^e ^h ^c ^i ^m
+^o ^d ^n ^a ^n ^r ^e ^f
+^m ^a ^i ^l ^l ^i ^w
+l $1 $2 $3 $4 $5 $6 $7 $8 $9
+^l ^e ^i ^n ^a ^d
+^2 ^3 ^4 ^5 ^6 ^7 ^8 ^9 o81 r
+$0 $1
+[ $1 $2 $3
+{ { { { { {
+l ^d ^r ^o ^w ^s ^s ^a ^p
+l $@ $y $a $h $o $o $. $c $o $m
+^e ^n ^i ^h ^s ^n ^u ^s
+{ { { { { { { {
+$1 $9 $8 $7
+c $2 $0 $1 $1
+^r ^e ^b ^m ^e ^c ^e ^d
+^a ^i ^r ^o ^t ^c ^i ^v
+^r ^e ^f ^i ^n ^n ^e ^j
+^a ^i ^r ^a ^m
+p1 i8
+$2 $0 $0 $0
+^n ^a ^h ^t ^a ^n ^o ^j
+[ $1 $2 $3 $4
+$1 $9 $8 $6
+^o ^g ^a ^i ^t ^n ^a ^s
+d i7
+^o ^r ^d ^n ^a ^j ^e ^l ^a
+$1 $3
+[ [
+^r ^e ^b ^m ^e ^v ^o ^n
+^a ^n ^i ^l ^o ^r ^a ^c
+$1 $9 $8 $5
+^e ^l ^t ^t ^i ^l
+@2 T7 u
+$0 $0 $7
+^r ^e ^b ^m ^e ^t ^p ^e ^s
+$1 $9 $8 $3
+^r ^e ^d ^n ^a ^x ^e ^l ^a
+l $2 $0 $0 $9
+$1 $9 $8 $0
+$2 $3
+$1 $9 $8 $4
+^m ^u ^n ^i ^t ^a ^l ^p
+] $1
+$2 $0 $0 $6
+$1 $2 $3 $4 $5 $6 $7 $8 $9 $0
+^l ^a ^n ^o ^i ^s ^s ^e ^f ^o ^r ^p
+l $1 $2 $3 $4
+$1 c
+^s ^o ^l ^r ^a ^c
+^e ^l ^p ^p ^a ^e ^n ^i ^p
+$4 $e $v $e $r
+$1 $9 $8 $2
+^o ^d ^r ^a ^n ^o ^e ^l
+$1 $9 $8 $1
+$2 $0 $0 $5
+l $1 $2 $3 $4 $5
+$2 $0 $0 $4
+c $1 $2 $3
+^8 ^7 ^6 ^5 ^4 ^3 ^2 ^1 o89
+^n ^a ^i ^t ^s ^i ^r ^h ^c
+$2 $0 $0 $3
+^s ^u ^s ^e ^j
+$2 $2
+$1 $2 $3 $4 $5 $6 $7 $8
+d ] ]
+^h ^t ^e ^b ^a ^z ^i ^l ^e
+^o ^m ^a ^e ^t
+^s ^a ^m ^o ^h ^t
+$1 $0 $1
+^n ^a ^m ^r ^e ^p ^u ^s
+^s ^s ^e ^n ^i ^s ^u ^b
+^o ^d ^r ^a ^c ^i ^r
+] $o l
+^a ^c ^i ^s ^s ^e ^j
+] ] ]
+$1 $9 $7 $9
+$1 $9 $8 $8
+[ $2 $0 $0 $9
+^o ^c ^s ^i ^c ^n ^a ^r ^f
+$0 $9
+$2 $1
+^a ^k ^n ^a ^y ^i ^r ^p
+^d ^r ^o ^w ^s ^s ^a ^p
+$1 d
+$2 $0 $0 $2
+] $0
+*07 O28 p2
+^r ^o ^t ^c ^i ^v
+^o ^i ^n ^o ^t ^n ^a
+^e ^m ^o ^c ^l ^e ^w
+^n ^i ^m ^a ^j ^n ^e ^b
+^a ^c ^i ^n ^o ^r ^e ^v
+^t ^e ^e ^w ^s
+^n ^i ^t ^r ^a ^m
+l $1 $2
+] ] ] $1 $2 $3
+$1 $9 $7 $6
+$1 $9 $7 $8
+$7
+^o ^g ^i ^r ^d ^o ^r
+^r ^e ^t ^s ^a ^m
+l $t $e $a $m $o
+$1 $9 $8 $9
+*09 p1 r
+^s ^e ^d ^e ^c ^r ^e ^m
+$2 d
+*27 p1 p2
+^e ^t ^a ^l ^o ^c ^o ^h ^c
+^t ^r ^e ^b ^o ^r
+l $1 $2 $3 $4 $5 $6
+@
+$0 d
+^y ^r ^r ^e ^b ^w ^a ^r ^t ^s
+$5 d
+[ $2 $0 $0 $8
+l $2 $0 $0 $8
+^a ^n ^i ^t ^s ^i ^r ^c
+$1 $2 $3 $4 $5 $6 $7
+$8 $8
+^n ^a ^i ^t ^s ^i ^r ^c
+d l O62
+$4 d
+^w ^e ^h ^t ^t ^a ^m
+DA l d
+^a ^l ^l ^e ^b ^a ^s ^i
+^s ^a ^l ^o ^c ^i ^n
+^o ^d ^r ^a ^u ^d ^e
+$3
+$7 $7 $7
+^t ^r ^a ^e ^h ^t ^e ^e ^w ^s
+$3 d
+^e ^m ^o ^s ^e ^w ^a
+^a ^s ^e ^c ^n ^i ^r ^p
+^o ^r ^d ^n ^a ^s ^s ^e ^l ^a
+^a ^l ^e ^i ^r ^b ^a ^g
+c $2 $0 $1 $0
+$6 d
+] ] ] ]
+$1 $9 $7 $7
+$1 $9 $7 $0
+^a ^n ^i ^t ^n ^e ^l ^a ^v
+^r ^e ^v ^l ^i ^s
+$9 d
+^a ^h ^t ^n ^a ^m ^a ^s
+$1 $9 $7 $5
+$1 $9 $9 $0
+$r $o $c $k $s
+^o ^r ^e ^i ^u ^q ^e ^t
+i7
+i6
+$1 $9 $7 $2
+^d ^r ^a ^h ^c ^i ^r
+^o ^i ^c ^i ^r ^u ^a ^m
+^e ^m ^r ^e ^h ^l ^i ^u ^g
+^e ^i ^l ^r ^a ^h ^c
+^c ^i ^t ^s ^a ^l ^p
+^l ^e ^u ^m ^a ^s
+$!
+$2 $0 $0 $1
+^e ^l ^p ^r ^u ^p
+$1 $9 $7 $3
+^9 ^8 ^7 ^6 ^5 ^4 ^3 ^2 ^1
+^y ^r ^r ^e ^b ^k ^c ^a ^l ^b
+$2 l
+$1 $9 $7 $4
+^r ^e ^t ^u ^p ^m ^o ^c
+$1 $9 $6 $9
+i0m i1y
+l $1 $1
+l $2 $0 $1 $2
+^o ^t ^r ^e ^b ^o ^r
+$9 $9
+l d 'E
+$6 $9
+^a ^e ^r ^d ^n ^a
+{ { { { { { { { { {
+$7 $7
+^d ^i ^v ^a ^d
+^l ^e ^u ^g ^i ^m
+$2 $5
+^a ^i ^d ^u ^a ^l ^c
+$8 d
+^r ^e ^v ^e ^t ^a ^h ^w
+^e ^n ^i ^l ^o ^r ^a ^c
+{ { { { {
+$1 $0 $0
+^k ^c ^i ^r ^t ^a ^p
+[ [ [
+] $2
+^s ^u ^e ^h ^t ^a ^m
+*13 [ p1
+^a ^n ^h ^s ^i ^r ^k
+$6 $6 $6
+$S l
+$7 d
+^e ^v ^i ^t ^a ^e ^r ^c
+$s $i $n $g $h
+l $1 $0
+^w ^o ^b ^n ^i ^a ^r
+$1 $9 $7 $1
+^a ^d ^n ^a ^n ^r ^e ^f
+$0 $8
+[ $2 $0 $1 $2
+$5
+^d ^a ^m ^m ^a ^h ^u ^m
+^e ^i ^n ^a ^h ^p ^e ^t ^s
+] ] $1
+^d ^n ^o ^m ^a ^i ^d
+^s ^i ^s ^i ^h ^t
+^a ^s ^s ^e ^n ^a ^v
+$1 $9
+[ [ [ [
+^r ^e ^d ^n ^u ^h ^t
+$# d s#s
+^l ^e ^a ^f ^a ^r
+^r ^e ^h ^p ^o ^t ^s ^i ^r ^h ^c
+^o ^v ^a ^t ^s ^u ^g
+O04 d
+d l ]
+$@ $1 $2 $3
+] ] $1 $2
+$1 $4
+$2 $4
+i8
+[ $2 $0 $0 $7
+^a ^r ^d ^n ^a ^s
+$1 $7
+^a ^l ^e ^i ^n ^a ^d
+^e ^l ^o ^c ^i ^n
+$1 $8
+$m sms
+^k ^e ^h ^s ^i ^h ^b ^a
+^s ^r ^a ^w ^r ^a ^t ^s
+$2 $0
+$3 $3
+$1 $9 $6 $7
+^e ^p ^i ^l ^e ^f
+l $2 $0 $0 $7
+{ { { {
+$0
+^n ^i ^t ^n ^e ^l ^a ^v
+$l $i $n $k
+^a ^u ^h ^s ^o ^j
+^w ^o ^l ^l ^e ^y
+l $4 $e $v $e $r
+i11 i32 i53 i74 i95 iB6 iD7
+$1 $5
+^l ^e ^u ^n ^a ^m
+^< $>
+$g $a $m $e $r
+^d ^e ^m ^m ^a ^h ^o ^m
+^l ^l ^e ^b ^r ^e ^k ^n ^i ^t
+d i9
+[ ]
+$1 $9 $9 $2
+$1 $9 $9 $1
+$3 $2 $1
+$1 $9 $6 $6
+^a ^r ^d ^n ^a ^j ^e ^l ^a
+^o ^i ^g ^r ^e ^s
+^n ^a ^c ^i ^r ^e ^m ^a
+O03 oB6 p2
+l $g $i $r $l
+$1 $9 $6 $8
+^e ^i ^h ^p ^o ^s
+l $1 $3
+^o ^t ^r ^e ^b ^l ^a
+^o ^l ^e ^c ^r ^a ^m
+$0 $0
+l $2 $0 $0 $6
+O03 d
+^k ^o ^o ^b ^e ^c ^a ^f
+^a ^i ^l ^i ^m ^a ^f
+^y ^t ^r ^e ^w ^q
+$1 $9 $6 $4
+$1 $9 $6 $5
+^l ^u ^f ^i ^t ^u ^a ^e ^b
+^r ^e ^l ^l ^i ^k
+^r ^o ^i ^n ^u ^j
+^s ^u ^i ^c ^i ^n ^i ^v
+$0 $7
+^r ^e ^m ^m ^u ^s
+^a ^i ^r ^e ^l ^a ^v
+^a ^n ^a ^i ^r ^a ^m
+^e ^s ^o ^j
+] $3
+l $g $a $r $c $i $a
+^n ^o ^s ^r ^e ^d ^n ^a
+^r ^e ^c ^c ^o ^s
+^e ^d ^a ^d ^i ^c ^i ^l ^e ^f
+$2 $7
+^o ^r ^d ^e ^p
+*06 d
+d 'G
+^i ^n ^n ^a ^v ^o ^i ^g
+O02 p2
+^y ^n ^o ^h ^t ^n ^a
+l $8 $8
+^y ^m ^e ^v ^o ^l ^i
+^a ^c ^i ^n ^o ^m
+^a ^r ^d ^n ^a ^x ^e ^l ^a
+^l ^l ^a ^b ^t ^e ^k ^s ^a ^b
+^e ^g ^r ^o ^e ^g
+^n ^i ^t ^s ^u ^j
+^y ^l ^f ^r ^e ^t ^t ^u ^b
+^a ^i ^v ^l ^i ^s
+l $7 $7 $7
+^e ^v ^o ^l
+^g ^n ^i ^t ^e ^k ^r ^a ^m
+^s ^e ^l ^r ^a ^h ^c
+^e ^g ^r ^o ^j
+[ $2 $0 $0 $6
+$9
+$1 $6
+^a ^r ^d ^n ^a ^s ^s ^e ^l ^a
+] $4
+^a ^i ^l ^a ^t ^a ^n
+i0m i1i
+l $2 $0 $0 $0
+^i ^m ^h ^s ^k ^a ^l
+l $0 $1
+$4
+i0i i1a i2m
+$1 $9 $6 $3
+^l ^a ^n ^o ^i ^t ^a ^n ^r ^e ^t ^n ^i
+^r ^o ^l ^y ^a ^t
+^r ^e ^v ^e ^r ^o ^f
+^n ^a ^t ^s ^i ^k ^a ^p
+^s ^a ^l ^o ^h ^c ^i ^n
+^p ^e ^e ^d ^n ^a ^s
+^n ^e ^d ^l ^o ^g
+^a ^r ^u ^a ^l
+@b i5
+^e ^t ^t ^o ^l ^r ^a ^h ^c
+[ [ [ [ [
+^r ^e ^i ^v ^a ^j
+^n ^a ^d ^r ^o ^j
+^w ^o ^d ^a ^h ^s
+i6a i7n i8d
+^3 ^2 ^1
+@- $a
+^a ^l ^i ^m ^a ^c
+$9 $9 $9
+^a ^i ^n ^r ^o ^f ^i ^l ^a ^c
+l $2 $0 $0 $5
+l $0 $0 $7
+^n ^o ^s ^k ^c ^a ^j
+^l ^e ^u ^n ^a ^m ^m ^e
+l ] ]
+l $1 $9 $8 $6
+[ $1 $9 $8 $5
+^e ^r ^a ^u ^o ^y
++0 d
+^e ^r ^d ^n ^a ^x ^e ^l ^a
+^k ^c ^i ^r ^e ^v ^a ^m
+^s ^i ^e ^f ^i ^l
+^a ^t ^i ^s ^e ^c ^n ^i ^r ^p
+$5 $5
+l $1 $9 $8 $7
+$a p1
+$8
+[ [ [ $1 $2 $3
+^n ^a ^i ^r ^d ^a
+^n ^o ^i ^p ^r ^o ^c ^s
+l $1 $0 $1
+$8 $9
+^e ^n ^i ^t ^s ^i ^r ^h ^c
+^l ^a ^i ^c ^o ^s
+^n ^a ^u ^j
+^n ^o ^d ^n ^a ^r ^b
+^k ^c ^a ^l ^b
+^l ^l ^a ^b ^t ^o ^o ^f
+^a ^s ^s ^i ^l ^e ^m
+O04 p2
+^u ^o ^y ^k ^c ^u ^f
+$1 $4 $3
+^i ^r ^a ^m
+l $2 $2
+^l ^e ^g ^n ^a
+^l ^o ^o ^p ^r ^e ^v ^i ^l
+^r ^e ^t ^s ^e ^h ^c ^n ^a ^m
+$2 $6
+$2 $8
+^n ^i ^a ^t ^p ^a ^c
+^x ^i ^n ^e ^o ^h ^p
+$8 $6
+] $e u
+^a ^i ^n ^i ^g ^r ^i ^v
+^y ^t ^t ^e ^r ^p
+^d ^a ^m ^m ^a ^h ^o ^m
+^t ^e ^n ^r ^e ^t ^n ^i
+@5 d O62
+^s ^i ^u ^l
+*49 d
+^a ^c ^c ^e ^b ^e ^r
+^a ^n ^o ^l ^e ^c ^r ^a ^b
+^a ^l
+^e ^r ^p ^m ^e ^i ^s
+[ $1 $9 $8 $6
+^e ^l ^l ^e ^i ^n ^a ^d
+^e ^n ^i ^r ^e ^h ^t ^a ^c
+^s ^o ^c ^r ^a ^m
+^e ^t ^i ^h ^w
+$1 $9 $6 $1
+{ { {
+$1 $9 $9 $8
+[ $2 $0 $0 $0
+$3 l
+$1 $1 $1
+[ [ [ [ [ [
+[ $1 $9 $8 $0
+c T8
+$1 $9 $6 $2
+[ $1 $9 $8 $4
+^n ^i ^v ^e ^k
+$g $i $r $l
+$1 $9 $6 $0
+[ DA f
+^n ^o ^g ^a ^r ^d
+^s ^r ^e ^l ^e ^e ^t ^s
+$1 $9 $5 $9
+[ $1 $9 $8 $9
+[ $2 $0 $0 $5
+^k ^r ^o ^w ^t ^e ^n
+l $2 $3
+^a ^i ^h ^p ^o ^s
+^r ^e ^p ^e ^e ^r ^c
+^a ^d ^n ^a ^m ^a
+$2 $0 $1 $5
+^y ^p ^p ^a ^h
+^o ^m ^r ^e ^l ^l ^i ^u ^g
+*06 l
+$8 $7
+^h ^a ^r ^a ^s
+^s ^e ^m ^a ^j
+$1 $9 $9 $9
+^d ^e ^m ^a ^h ^o ^m
+^y ^r ^a ^u ^r ^b ^e ^f
+$1 $0 $0 $0
+] $o t
+^h ^a ^n ^n ^a ^h
+^l ^a ^n ^o ^s ^r ^e ^p
+@1 d *13
+^w ^e ^r ^d ^n ^a
+^k ^n ^i ^l
+^n ^a ^h ^t ^a ^n
+^s ^y ^a ^w ^l ^a
+c $2 $0 $1 $2
+^n ^o ^t ^g ^n ^i ^h ^s ^a ^w
+$4 $4
+c $@ $g $m $a $i $l $. $c $o $m
+[ $1 $9 $9 $0
+^e ^u ^q ^i ^r ^n ^e ^h
+] $7
+$7 $8 $6
+l $1 $2 $3 $4 $5 $6 $7 $8 $9 $0
+l $2 $1
+[ $1 $9 $8 $8
+] $6
+^l ^a ^t ^s ^y ^r ^c
+^n ^e ^h ^p ^e ^t ^s
+^o ^c ^s ^e ^c ^n ^a ^r ^f
+$8 $5
+[ $1 $9 $8 $7
+^a ^l ^e ^g ^n ^a
+^a ^c ^i ^l ^e ^g ^n ^a
+^e ^c ^n ^i ^r ^p
+^n ^o ^d ^n ^o ^l
+] d t
+l $1 $9 $8 $0
+l $l $o $v $e
+^d ^a ^d ^i ^s ^r ^e ^v ^i ^n ^u
+^s ^a ^c ^u ^l
+$1 $9 $5 $8
+*13 d
+D0 d t
+l $l $o $v $e $r
+^t ^n ^a ^h ^s ^a ^r ^p
+^e ^n ^i ^r ^e ^h ^t ^a ^k
+^e ^t ^a ^m ^i ^t ^l ^u
+^y ^e ^k ^n ^o ^m
+$8 $3
+l $0 $9
+l $1 $9 $8 $4
+$0 $3
+^n ^e ^v ^e ^t ^s
+^s ^u ^o ^i ^c ^e ^r ^p
+$j $e $s $u $s
+^3 ^2 ^1 l $1 $2 $3
+u $2 $0 $1 $1
+^h ^p ^e ^s ^o ^j
+^r ^o ^t ^a ^n ^i ^m ^r ^e ^t
+l $1 $9 $8 $1
+$1 $9 $9 $3
+^a ^n ^i ^r ^b ^a ^s
+^e ^t ^a ^h ^i
+$2 $9
+l $1 $9 $8 $5
+^o ^l ^l ^e ^h
+[ $1 $9 $8 $2
+^a ^c ^s ^e ^c ^n ^a ^r ^f
+^o ^i ^d ^u ^a ^l ^c
+^r ^o ^d ^a ^v ^l ^a ^s
+*05 d
+^a ^i ^g ^o ^l ^o ^c ^i ^s ^p
+$. $c $o $m
+@1 l
+^a ^n ^a ^i ^r ^d ^a
+^p ^o ^i ^u ^y ^t ^r ^e ^w ^q
+^a ^t ^i ^r ^a ^g ^r ^a ^m
+^l ^a ^s ^r ^e ^v ^i ^n ^u
+$r $u $l $e $s
+l $1 $9 $8 $3
+^o ^g ^e ^i ^d
+^o ^h ^c ^u ^m ^o ^m ^a ^e ^t
+c O04 q
+$l $o $v $e
+^a ^t ^s ^u ^g ^e ^m
+l $1 $9 $7 $9
+[ $1 $9 $8 $3
+^y ^t ^t ^i ^k ^o ^l ^l ^e ^h
+^n ^a ^i ^l ^u ^j
+$0 $0 $1
+^a ^n ^n ^a ^v ^o ^i ^g
+^m ^o ^d ^e ^e ^r ^f
+^t ^c ^e ^f ^r ^e ^p
+] ] ] ] ]
+l $6 $6 $6
+] $9
+$1 $9 $5 $7
+*15 d
+^a ^i ^v ^i ^l ^o
+*05 l
+^o ^c ^i ^r ^e ^d ^e ^f
+^a ^i ^c ^i ^t ^e ^l
+^n ^e ^m ^r ^a ^c
+^a ^i ^f ^o ^s
+l [ d
+^s ^s ^e ^c ^c ^u ^s
+^o ^c ^r ^a ^m
+$1 $9 $9 $7
+^e ^i ^g ^g ^a ^m
+$i $n $d $i $a
+l $1 $4
+l $1 $9 $8 $8
+^r ^e ^v ^i ^l ^o
+^s ^e ^r ^d ^n ^a
+^h ^a ^l ^l ^i ^m ^s ^i ^b
+^l ^a ^b ^o ^l ^g
+$0 $2
+{ [ d
+$1 $9 $9 $5
+'7 d
+$3 $0
+^t ^s ^u ^j
+^k ^n ^i ^p
+^r ^e ^t ^e ^p
+$6
+[ $1 $0 $1
+[ $2 $0 $0 $3
+^a ^n ^a ^i ^l ^u ^j
+^a ^r ^a ^b ^r ^a ^b
+^o ^d ^e ^r ^f ^l ^a
+^r ^a ^c ^s ^o
+^s ^o ^l ^r ^a ^c ^n ^a ^u ^j
+^y ^o ^s
+^a ^r ^i ^e ^v ^i ^l ^o
+^a ^l ^l ^e ^r ^t ^s ^e
+^o ^r ^d ^n ^a ^e ^l
+d 'E
+^t ^a ^e ^r ^g
+*10 d O7A
+$8 $2
+i7  l
+$7 $8
+^n ^a ^i ^d ^n ^i
+^y ^o ^s ^o ^y
+'G l
+^c ^s ^e ^b ^u ^i ^e ^t
+^l ^a ^t ^i ^g ^i ^d
+$0 $6
+^r ^e ^t ^o ^o ^c ^s
+[ $0 $0 $7
+^a ^n ^i ^t ^r ^a ^m
+^a ^n ^i ^r ^a ^m
+^a ^i ^l ^i ^c ^e ^c
+$8 $4
+^a ^n ^i ^t ^s ^i ^r ^h ^c
+^l ^a ^c ^i ^n ^a ^h ^c ^e ^m
+^l ^e ^h ^c ^i ^m
+O06 d
+$6 $6
+$7 $9
+^e ^g ^n ^a ^r ^o
+^e ^s ^a ^e ^l ^p
+c $2 $0 $0 $9
+^7 ^6 ^5 ^4 ^3 ^2 ^1 o78
+$4 $5
+l $2 $0
+$@ $2 $0 $1 $1
+^a ^l ^l ^e ^t ^s
+$2 $0 $0
+^r ^e ^t ^l ^a ^w
+^t ^n ^e ^c ^n ^i ^v
+^z ^i ^r ^t ^a ^e ^b
+$1 $9 $5 $4
+^o ^i ^r ^a ^m
+$0 $5
+l $4 $l $i $f $e
+$3 $1
+[ $1 $9 $9 $1
+$1 $9 $9 $4
+[ $1 $9 $8 $1
+$2 $0 $2 $0
+$6 $7
+$3 $3 $3
+$4 $l $i $f $e
+^e ^s ^s ^a ^p ^e ^d ^t ^o ^m
+l $9 $9
+^e ^u ^q ^i ^r ^n ^e
+*04 l
+$o d
+l $1 $2 $3 $4 $5 $6 $7 $8
+^n ^e ^y ^u ^g ^n
+$1 $2 $1 $2
+O03 y4 y4
+^l ^e ^h ^c ^a ^r
+^n ^e ^k ^c ^i ^h ^c
+] $8
+^1 ^2 ^3 ^4 ^5 ^6 ^7 ^8 ^9 r
+i5a i6n i7d
+l $2 $0 $0 $4
+^y ^x ^e ^s
+^n ^o ^l ^e ^m ^r ^e ^t ^a ^w
+^1 ^1 ^0 ^2
+^n ^e ^e ^r ^g
+^y ^t ^i ^r ^u ^c ^e ^s
+i0o i0y
+c $1 $2 $3 $4
+[ $2 $0 $0 $4
+*1B d E
+^r ^e ^t ^t ^o ^p ^y ^r ^r ^a ^h
+^y ^z ^a ^r ^c
+l $2 $0 $0 $2
+^l ^a ^i ^c ^e ^p ^s
+^g ^n ^i ^h ^t ^e ^m ^o ^s
+^s ^i ^x ^e ^l ^a
+$0 $4
+^e ^k ^i ^l ^i
+^e ^t ^a ^n ^o ^i ^s ^s ^a ^p
+$1 $9 $5 $5
+*93 p2 O0A
+^l ^l ^a ^b ^e ^s ^a ^b
+^e ^v ^o ^l T4
+l $7 $7
+l $2 $0 $0 $3
+$w $o $r $l $d
+^u ^e ^v ^o ^l ^i
+] ] ] $1
+[ $1 $9 $7 $6
+^e ^u ^l ^b
+^l ^l ^a ^b ^y ^e ^l ^l ^o ^v
+$8 $8 $8
+l $6 $9
+$1 $2 $3 d ] ] ]
+$s $u $c $k $s
+^s ^e ^e ^k ^n ^a ^y
+$1 $9 $5 $6
++0 *03 p1
+^e ^n ^i ^l ^e ^u ^q ^c ^a ^j
+^n ^i ^h ^c ^a ^s
+^r ^e ^h ^t ^o ^m
+^< ] $>
+[ $1 $9 $7 $8
+[ .1 d
+$1 $2 $3 $1 $2 $3
+$7 $6
+^o ^c ^n ^a ^r ^f
+c $1 $2
+-4 O01 p2
+^h ^t o2e
+^o ^n ^a ^i ^l ^i ^m ^e
+l $1 $9 $8 $2
+^e ^n ^i ^m ^s ^a ^j
+^r ^e ^b ^m ^e ^m ^e ^r
+[ $1 $9 $7 $7
+^e ^p ^p ^e ^s ^u ^i ^g
+^r ^e ^g ^g ^i ^t
+^z ^e ^n ^i ^t ^r ^a ^m
+^3 ^2 ^1 $1 $2 $3
+^r ^e ^t ^s ^n ^o ^m
+^y ^l ^e ^v ^o ^l
+^n ^a ^m ^r ^e ^d ^i ^p ^s
+^r ^a ^t ^s ^k ^c ^o ^r
+$1 $9 $5 $0
+^e ^h ^t ^m ^a ^i
+l ]
+^a ^i ^l ^u ^j
+$4 $5 $6
+^n ^i ^l ^o ^r ^a ^c
+^n ^i ^u ^q ^a ^o ^j
+^t ^s ^i ^r ^h ^c ^s ^u ^s ^e ^j
+^n ^o ^m ^e ^k ^o ^p
+{
+^a ^e ^s ^l ^e ^h ^c
+^a ^i ^r ^a ^m ^a ^n ^a
+^d ^i ^r ^d ^a ^m ^l ^a ^e ^r
+^e ^r ^u ^t ^u ^f
+^o ^z ^n ^e ^r ^o ^l
+^t ^h ^g ^i ^n ^d ^i ^m
+^t ^e ^r ^c ^e ^s
+^t ^e ^r ^a ^g ^r ^a ^m
+^o ^i ^r ^a ^s ^o ^r
+[ $1 $9 $9 $2
+^1
+c $0 $1
+^g ^n ^u ^s ^m ^a ^s
+$8 l
+l $1 $9 $8 $9
+l $1 $9 $9 $0
+l $1 $0 $0
+[ $1 $2
+^a ^c ^n ^a ^i ^b
+^e ^l ^l ^e ^b ^a ^s ^i
+^t ^a ^e ^r ^g ^s ^i ^d ^o ^g
+$9 l
+^r ^e ^t ^n ^u ^h
+^a ^h ^s ^a ^t ^a ^n
+^y ^a ^d ^h ^t ^r ^i ^b
+$e p1
+l $7
+d 'F
+^e ^n ^i ^r ^e ^g ^n ^a ^t
+^n ^e ^r ^u ^a ^l
+^s ^i ^u ^l ^e ^s ^o ^j
+^s ^d ^n ^e ^i ^r ^f
+l $m $i $c $h $a $e $l
+$2 $0 $1 $3
+$8 $1
+^r ^o ^s ^s ^e ^f ^o ^r ^p
+$4 $m $e
+^0 ^1 ^0 ^2
+l $1 $5
+^s ^r ^e ^g ^n ^a ^r
+u $2 $0 $1 $0
+$.
+^l ^a ^r ^e ^n ^e ^g
+-0 d
+^a ^n ^i ^l ^a ^t ^a ^c
+^a ^s ^o ^p ^i ^r ^a ^m
+$i d
+l $2 $0 $0 $1
+i0e i1l
+^n ^o ^n ^n ^a ^h ^s
+$1 $9 $5 $3
+c $1 $1
+^2 ^3 ^4 ^5 ^6 ^7 ^8 o71 r
+^n ^o ^i ^s ^s ^i ^m
+^y ^t ^i ^p ^i ^d ^n ^e ^r ^e ^s
+^n ^r ^e ^h ^t ^u ^o ^s
+$7 $8 $9
+$@ $1 $2 $3 $4
+^a ^i ^l ^u ^i ^g
+^k ^c ^u ^l ^d ^o ^o ^g
+l $1 $9 $9 $1
+^e ^r ^b ^m ^e ^i ^t ^p ^e ^s
+^g ^n ^a ^t ^s ^u ^m
+^o ^l ^b ^a ^p ^n ^a ^u ^j
+^l ^u ^f ^r ^e ^d ^n ^o ^w
+^n ^o ^i ^s ^s ^a ^p
+^a ^i ^c ^i ^l ^a
+l $1 $2 $3 $4 $5 $6 $7
+$9 $0
+^a ^n ^i ^g ^e ^r
+^e ^n ^o ^m ^i ^s
+$a $g $a $i $n
+^e ^i ^l ^a ^t ^a ^n
+^s ^m ^a ^i ^l ^l ^i ^w
+^n ^i ^e ^m ^t ^e ^l
+^m ^a ^r ^i ^a ^s ^m ^o
+^n ^i ^a ^t ^n ^u ^o ^m
+^n ^i ^l ^k ^n ^a ^r ^f
+l $2 $6
+i5y i6o i7u
+c $1 $0
+[ $1 $9 $7 $9
+[ $2 $0 $0 $1
+^a ^s ^e ^r ^e ^t
+^n ^o ^t ^g ^n ^i ^l ^l ^e ^w
+^o ^n ^a ^i ^l ^i ^m ^i ^x ^a ^m
+$0 $0 $0
+l $1 $9 $7 $4
+*12 d O6B
+^e ^s ^o ^j ^a ^i ^r ^a ^m
+^n ^o ^s ^i ^d ^a ^m
+^t ^n ^e ^m ^e ^g ^a ^n ^a ^m
+$s
+i6i i7l i8o i9v iAe iBy iCo iDu
+^l ^a ^n ^o ^i ^t ^a ^n
+$1 $9 $5 $2
+$3 $2
+^r ^e ^e ^r ^a ^c
+$7 $3
+l $0 $7
+^o ^d ^l ^a ^n ^o ^r
+^n ^o ^s ^r ^e ^f ^f ^e ^j
+^h ^s ^o ^t ^n ^a ^s
+^a ^s ^s ^i ^r ^a ^l
+$c $r $a $f $t
+^e ^r ^a ^e ^w
+^e ^s ^i ^d ^a ^r ^a ^p
+^i ^d ^a ^t ^a ^m ^i ^a ^j
+^o ^r ^a ^v ^l ^a
+^y ^n ^i ^t ^s ^e ^d
+^z ^e ^u ^g ^i ^r ^d ^o ^r
+$3 $6
+^r ^o ^t ^c ^e ^h
+^r ^u ^h ^t ^r ^a
+$e
+^o ^i ^l ^u ^j
+^s ^a ^i ^t ^a ^m
+*14 d s6,
+^a ^c ^s ^i ^c ^n ^a ^r ^f
+[ $2 $0 $0 $2
+^d ^i ^p ^u ^t ^s
+^u ^o ^y ^e ^v ^o ^l
+l $1 $9 $7 $2
+l ] d
+^a ^n ^a ^i ^t ^a ^t
+^l ^a ^c ^i ^d ^e ^m
+[ $1 $9 $7 $4
+.0 O6B p1
+^e ^l ^e ^h ^c ^i ^m
+^t ^s ^e ^b ^e ^h ^t ^m ^a ^i
+^y ^t ^i ^s ^r ^e ^v ^i ^n ^u
+$s $1 $2 $3
+^6 ^5 ^4 ^3 ^2 ^1
+^l ^e ^b ^a ^s ^i
+c $1 $2 $3 $4 $5
+^a ^i ^r ^o ^t ^i ^v
+^n ^e ^e ^v ^a ^r ^p
+*02 t
+*0B l
+^r ^e ^t ^s ^i ^m
+^s ^i ^c ^n ^a ^r ^f
+^t ^s ^e ^b ^e ^h ^t
+$3 $4
+] $e $s
+[ [ [ [ [ [ [
+o0s d
+^r ^e ^e ^n ^i ^g ^n ^e
+$0 $1 $1
+@0 D6
+l $1 $9 $7 $8
+^a ^d ^n ^i ^l
+l ^x $x ^x $x
+[ $1 $9 $7 $0
+^a ^y ^t ^i ^d ^a
+^n ^a ^b ^e ^t ^s ^e
+^e ^h ^t T3
+$7 $4
+$7 $5
+^n ^o ^s ^l ^i ^w
+] ] ] ] ] ]
+[ $1 $9 $7 $1
+^a ^m ^i ^t ^a ^f
+$1 $9 $4 $7
+$m $a $r $i $a
+l si1 so0
+^y ^l ^r ^e ^b ^m ^i ^k
+$9 $1 $1
+$a $n $g $e $l
+^a ^l ^e ^m ^a ^p
+^z ^e ^d ^n ^a ^n ^r ^e ^h
+l $0 $8
+^s ^i ^e ^v ^o ^l
+^e ^v ^e ^t ^s
+l $@ $1 $2 $3
+^s ^o ^t ^n ^a ^s
+^d ^r ^o ^w ^s ^s ^a ^p ^w ^e ^n
+^n ^i ^t ^s ^i ^r ^h ^c
+[ $1 $9 $9 $4
+^a ^l ^e ^c ^r ^a ^m
+^e ^t ^n ^e ^c ^i ^v
+i9
+$@ $a $o $l $. $c $o $m
++0 +4 d
+^a ^c ^i ^l ^l ^a ^t ^e ^m
+^d ^r ^o ^w ^s ^s ^a ^p ^y ^m
+O05 p1
+d $1 t
+^e ^l ^e ^i ^r ^b ^a ^g
+^h ^t ^r ^a ^h ^d ^d ^i ^s
+l $8 $9
+^o ^n ^u ^r ^b
+^t ^n ^e ^d ^i ^s ^e ^r ^p
+$6 $8
+^r ^a ^s ^e ^c
+*06 O3A p4
+$1 $9 $9 $6
+^a ^i ^c ^n ^e ^r ^o ^l ^f
+$5 $0
+$5 $6
+} ] ] {
+$_ $2 $0 $1 $1
+[ $1 $9 $7 $5
+*05 O03 d
+^n ^o ^s ^l ^e ^n
+$0 $1 $0
+] $R u
+^p ^e ^e ^d ^a ^r ^p
+^g ^n ^i ^k ^r ^o ^w
+^t ^c ^e ^j ^o ^r ^p
+$1 $2 $3 $3 $2 $1
+^a ^c ^i ^r ^e ^m ^a
+^a ^h ^t ^r ^a ^m
+^d ^r ^o ^o ^w ^t ^h ^c ^a ^w
+^r ^e ^t ^n ^i ^w
+l $8 $7
+^o ^t ^i ^n ^a ^u ^j
+^h ^s ^a ^k ^a ^r ^p
+[ $1 $9 $6 $8
+^a ^l ^i ^c ^s ^i ^r ^p
+^o ^g ^a ^i ^h ^t
+^y ^e ^l ^r ^i ^h ^s
+^9 ^8 ^7 ^6 ^5 ^4 ^3 ^2 ^1 T9
+*65 d l
+^a ^l ^u ^a ^p
+$3 $5
+^n ^a ^g ^r ^o ^m
+^t ^a ^e ^r ^g ^e ^h ^t
+[ $1 $9 $7 $2
+^l ^e ^u ^q ^a ^r
+^n ^o ^m ^i ^s
+^x ^X ^x $x $X $x l
+*0A t
+l $1 $9
+$p $o $w $e $r
+^g ^n ^i ^k ^c ^u ^f
+^y ^r ^r ^e ^b ^p ^s ^a ^r
+^s ^i ^r ^h ^c
+^h ^t ^e ^n ^n ^e ^k
+[ $1 $9 $7 $3
