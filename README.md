@@ -14,7 +14,7 @@ __Simple:__ No restrictions on character class
 
 __Number of Rules:__ The length of the rule list
 
-[This blog post]() describes how the rule lists were made. 
+[This blog post](https://www.aon.com/en/insights/cyber-labs/cracking-into-password-requirements) describes how the rule lists were made. 
 
 The "unrevised_top_64" folder contains copies of the *-64.rule files from before they were revised to match current years. The "Source_Rules.md" file contains a list of the public rule files that these new rule lists are based on. See the blog post for more details. 
 
